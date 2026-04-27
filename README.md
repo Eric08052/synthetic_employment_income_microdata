@@ -1,13 +1,13 @@
-# synthetic_employment_income
+# synthetic_employment_income_microdata
 
-`synthetic_employment_income` is a workflow-oriented research codebase for building and validating synthetic employment income data in China.
+`synthetic_employment_income_microdata` is a workflow-oriented research codebase for building and validating synthetic employment income data in China.
 
 The repository contains the core pipeline for IPF-based spatial microsimulation, integerisation, income adjustment, and distributional comparison plotting.
 
 ## Repository Structure
 
 ```text
-synthetic_employment_income/
+synthetic_employment_income_microdata/
 ├── README.md
 ├── requirements.txt
 ├── run_full_workflow.py
@@ -44,7 +44,6 @@ synthetic_employment_income/
 │   ├── config.py
 │   ├── run_qisi_main.py
 │   └── shared/
-│       ├── __init__.py
 │       ├── data_loader.py
 │       ├── pipeline.py
 │       ├── province_outputs.py
