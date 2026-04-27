@@ -33,8 +33,10 @@ synthetic_employment_income_microdata/
 │   ├── Per_capita_disposable_income_by_city_2018–2020.xlsx
 │   ├── Per_capita_disposable_income_by_district_2020.xlsx
 │   ├── Provincia_wage_data_for_private_and_non-private_sector_employment_2018–2020.xlsx
+│   ├── README.md
 │   ├── cfps2020_employed_micro.parquet
 │   ├── chip_employed.parquet
+│   ├── city-level_minimum_wage_standards_2018.xlsx
 │   ├── geo_code_mapping_2020.json
 │   ├── macro_master.parquet
 │   ├── margin_total_pop.parquet
